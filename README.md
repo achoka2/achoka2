@@ -22,6 +22,11 @@ I am currently practicticing Nurse but hoping to be a medical programmer in the 
 ---
 
 
+## &#x1f4c8; My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achoka2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Achoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=achoka2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **achoka2/achoka2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
