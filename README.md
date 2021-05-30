@@ -16,7 +16,11 @@ I am currently practicticing Nurse but hoping to be a medical programmer in the 
 
 :toolbox: Toolbox
 
-<img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="CSS3 logo" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo" width="50" height="50"> <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50">
+<img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="CSS3 logo" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo" width="50" height="50"> <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Javascript logo" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="Javascript logo" width="50" height="50"><img src = "https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" alt="Javascript logo" width="50" height="50">
+
+
+
+
 
 
 ---
