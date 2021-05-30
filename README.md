@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Achoka Clifford!
+![Twitter Follow](https://img.shields.io/twitter/follow/clifordachoka?label=People%20following%20me%20on%20Twitter&style=social)
+![GitHub followers](https://img.shields.io/github/followers/achoka2?label=Github%20Followers&style=social)
 
 <!--
 **achoka2/achoka2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
